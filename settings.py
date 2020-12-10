@@ -23,7 +23,7 @@ withdraw_amount = 0.025
 start_balance = 0.00022371
 
 # BTC address to withdraw profits to
-wallet_address = 'btc_wallet_address_here'
+wallet_address = '1MoP5AmbGNJPPs22NbmEkS9grRXnXdLdUS'
 
 
 #IF you have a discord you can enter a webhook here and send messages for when you are away
@@ -36,4 +36,4 @@ account_name = 'dicebot197'
 
 #Private Key for Tron Link
 
-private_key = 'private_key_here'
+private_key = '975e0f9d80cba5343587c982e296b676a20e67cadb74b2612330e2a31dfa9426'
